@@ -2,6 +2,10 @@
   url: "/"
   side: left
 
+- title: calendar test
+  url: "/calendar.md/"
+  side: left
+  
 - title: Getting Started
   url: "/getting-started/"
   side: left
